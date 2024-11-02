@@ -2,3 +2,5 @@ Variables------------
 const = its dose'n change value. 
 let = is a block scope. it's changing under scope variable value
 
+"use strict"  when you write top of the page then write mordern javascript.
+
