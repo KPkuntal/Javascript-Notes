@@ -4,3 +4,12 @@ let = is a block scope. it's changing under scope variable value
 
 "use strict"  when you write top of the page then write mordern javascript.
 
+************************ Object*-----------------------*
+
+1. string
+2. number
+3. boolean
+4. null
+5. undefined
+6. symbol
+7. bigint
