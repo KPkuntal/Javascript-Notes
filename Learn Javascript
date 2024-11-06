@@ -37,3 +37,17 @@ Return type of variables in JavaScript
        Function  =>  function
        Object  =>  object
 
+
+/*************** Javascript Memory ********************/ 
+
+1. Stack ( Using Primitive datatype), 2. Heap ( Using Non Primitive )
+
+/*********** String *****************/ 
+
+string interpolation
+console log(`Hellow My Name Is ${} and my repo count is ${}` )
+
+
+
+
+
