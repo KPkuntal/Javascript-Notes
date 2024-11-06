@@ -13,3 +13,27 @@ let = is a block scope. it's changing under scope variable value
 5. undefined
 6. symbol
 7. bigint
+
+/********* Datatype*********/ 
+
+2 type of datatype
+
+1. Primitive ==> 7 types: string, number, boolearn, null, undefined, symbol, bigint
+
+2. Non Primitive / Referance type ==>  array, objects, functions
+
+Return type of variables in JavaScript
+1) Primitive Datatypes
+       Number => number
+       String  => string
+       Boolean  => boolean
+       null  => object
+       undefined  =>  undefined
+       Symbol  =>  symbol
+       BigInt  =>  bigint
+
+2) Non-primitive Datatypes
+       Arrays  =>  object
+       Function  =>  function
+       Object  =>  object
+
