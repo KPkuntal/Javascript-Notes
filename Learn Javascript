@@ -48,6 +48,15 @@ string interpolation
 console log(`Hellow My Name Is ${} and my repo count is ${}` )
 
 
+/********* For Loop ***********/
+for (start; end; change;) (
+}
 
+/********* While Loop ***********/
+start 
+while(end) 
+{
+change
+}
 
 
